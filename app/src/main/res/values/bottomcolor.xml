@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+<color name="btnAdd">#ff6699</color>
+<color name="btnSub">#995566</color>
+<color name="btnMult">#dd6699</color>
+<color name="btnDiv">#bb7766</color>
+<color name="btnExp">#779933</color>
+<color name="btnMax">#cc8811</color>
+    
+    
+</resources>
